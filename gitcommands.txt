@@ -1,0 +1,3 @@
+git is initialised ----> git init
+show file and hidden file also ---> ls -lart
+  git status 
