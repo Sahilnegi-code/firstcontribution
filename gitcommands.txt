@@ -1,13 +1,14 @@
 git is initialised ----> git init
 show file and hidden file also ---> ls -lart
-  git status 
+git status 
 git commit -m " this is first commit "
 git add -A ---> to put all files in staging area from untracked files	
 git checkout file name --> ya purana commit ma kaam kiya wo usko la ayega
 git status -f ---> ya saari files ko last commit tha usko le ayega
 git log ---> tell us about the commit
 git log -p -noofcommitswantstosee --> top no of commits
-git diff --->  comparing working directory to staging area and it shows
-git diff --staged ---->  comparing staging area with  commit and it shows also
-s 
+git diff --->  comparing working directory with staging area and it shows
+git diff --staged ---->  comparing staging area with  last commit and it shows also
+git rm --cached filename---> remove from staging area .
+git rm  filename ---> remove from staging area and delete the file from folder  .
 
