@@ -7,4 +7,7 @@ git checkout file name --> ya purana commit ma kaam kiya wo usko la ayega
 git status -f ---> ya saari files ko last commit tha usko le ayega
 git log ---> tell us about the commit
 git log -p -noofcommitswantstosee --> top no of commits
-git diff ---> show  comparing working directory to staging area
+git diff --->  comparing working directory to staging area and it shows
+git diff --staged ---->  comparing staging area with  commit and it shows also
+s 
+
