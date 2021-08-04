@@ -1,4 +1,5 @@
 git is initialised ----> git init
 show file and hidden file also ---> ls -lart
   git status 
-git commit
+git commit -m " this is first commit "
+git add -A ---> to put all files in staging area from untracked files
