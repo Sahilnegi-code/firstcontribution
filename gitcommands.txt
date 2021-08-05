@@ -12,3 +12,5 @@ git diff --staged ---->  comparing staging area with  last commit and it shows a
 git rm --cached filename---> remove from staging area .
 git rm  filename ---> remove from staging area and delete the file from folder  .
 
+touch .gitignore---> the files which you doesnt want to push the file in github. and run this command on terminal.
+and write the filename which you want to ignore.
