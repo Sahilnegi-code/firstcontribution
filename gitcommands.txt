@@ -16,4 +16,5 @@ touch .gitignore---> the files which you doesnt want to push the file in github.
 and write the filename which you want to ignore and it will be ignored when where it is present. if you write *extension	 ,it will ignore all files of .log  .
 if u want to ignore folder then write foldername/ in .gitignore
 jis file ko remove krna hai usi  place is file ka extension ko ignore krna hai to, then write /filename in gitignore.	
-	
+
+git branch newBranchname ----> new branch will formed. To jump in new branch git checkout newbranchname
