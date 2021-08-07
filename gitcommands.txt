@@ -15,5 +15,5 @@ git rm  filename ---> remove from staging area and delete the file from folder  
 touch .gitignore---> the files which you doesnt want to push the file in github. and run this command on terminal.
 and write the filename which you want to ignore and it will be ignored when where it is present. if you write *extension	 ,it will ignore all files of .log  .
 if u want to ignore folder then write foldername/ in .gitignore
-jis file ko remove krna hai usi  place is file ka extension ko ignore krna hai to, then write /filename in gitignore.
+jis file ko remove krna hai usi  place is file ka extension ko ignore krna hai to, then write /filename in gitignore.	
 	
