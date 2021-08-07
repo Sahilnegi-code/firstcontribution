@@ -18,3 +18,5 @@ if u want to ignore folder then write foldername/ in .gitignore
 jis file ko remove krna hai usi  place is file ka extension ko ignore krna hai to, then write /filename in gitignore.	
 
 git branch newBranchname ----> new branch will formed. To jump in new branch git checkout newbranchname
+
+
